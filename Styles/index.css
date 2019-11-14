@@ -1,0 +1,19 @@
+.destaque{
+    position: relative;
+    width: 900px;
+
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.destaque img{
+    position: relative;
+    width: 900px;
+    height: 330px;
+}
+
+.destaque input{
+    position: relative;
+    display: inline-block;
+}
